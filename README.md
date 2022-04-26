@@ -2,8 +2,6 @@
 
 Welcome to EX2 IPCV Curse The purpose of this exercise is to help you understand the concept of the convolution and edged etection by performing simple manipulations on images.
 
-
-# Write On: :bulb:
 **Written in Python on PyCharm workspace** ![22](https://user-images.githubusercontent.com/73976733/104122372-55ae3700-534d-11eb-8de4-492973fca972.jpeg)
 
 # INFO: :mag:                          
